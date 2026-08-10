@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">⌨ About Me</h2>
+<h2 align="center"> About Me</h2>
 
 ```java
 public class Developer {
@@ -95,7 +95,7 @@ public class Developer {
 
 ---
 
-<h2 align="center">⚙ Technologies</h2>
+<h2 align="center"> Technologies</h2>
 
 <div align="center">
 
