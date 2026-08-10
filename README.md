@@ -229,7 +229,7 @@ API integration and responsive UI.
 
 <br/>
 
-### ☕ Java Projects
+###  Java Projects
 
 Java projects created while learning Object-Oriented Programming,
 data structures and application development.
@@ -251,7 +251,7 @@ modern frontend development.
 
 ---
 
-<h2 align="center">💻 Developer Terminal</h2>
+<h2 align="center"> Developer Terminal</h2>
 
 ```bash
 $ whoami
