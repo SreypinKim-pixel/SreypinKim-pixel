@@ -16,13 +16,13 @@
 <br/>
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│        WELCOME TO MY DIGITAL SPACE           │
-│                                              │
-│        code • learn • build • repeat         │
-│                                              │
-╰──────────────────────────────────────────────╯
+                            ╭──────────────────────────────────────────────╮
+                            │                                              │
+                            │        WELCOME TO MY DIGITAL SPACE           │
+                            │                                              │
+                            │        code • learn • build • repeat         │
+                            │                                              │
+                            ╰──────────────────────────────────────────────╯
 ```
 
 <br/>
@@ -88,7 +88,6 @@ public class Developer {
 
  I enjoy learning by building real projects
 
- Goal: Become a **Full-Stack Software Developer**
 
 </div>
 
@@ -122,7 +121,7 @@ public class Developer {
 
 ---
 
-<h2 align="center">📡 Currently Exploring</h2>
+<h2 align="center"> Currently Exploring</h2>
 
 <div align="center">
 
@@ -221,7 +220,7 @@ Figma               ████████████████░░░░
 
 <div align="center">
 
-### 🛒 E-Commerce Web Application
+### E-Commerce Web Application
 
 Modern e-commerce website with authentication, product management,
 API integration and responsive UI.
