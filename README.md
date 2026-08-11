@@ -1,10 +1,10 @@
 <!-- ========================================================= -->
-<!--                         SREYPIN KIM                       -->
+<!--            SREYPIN KIM — MINIMAL MONOCHROME README         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=SREYPIN%20KIM&fontColor=FFFFFF&fontSize=42&fontAlignY=42&animation=fadeIn&desc=IT%20Student%20%C2%B7%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=160&section=header&text=SREYPIN%20KIM&fontColor=1A1A1A&fontSize=42&fontAlignY=42&animation=fadeIn&desc=IT%20Student%20%C2%B7%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <br/>
 
@@ -98,7 +98,7 @@ Figma             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
 
 <br/><br/>
 
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SreypinKim-pixel&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -110,14 +110,22 @@ Figma             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
 
 <table align="center" width="90%">
 <tr>
+<td width="33%" valign="top" align="center">
 
+**E-Commerce App**
+
+Auth, product management, API integration, responsive UI.
+
+`React` `Redux Toolkit` `RTK Query` `Tailwind`
+
+</td>
 <td width="33%" valign="top" align="center">
 
 **Java Projects**
 
 OOP, data structures, application development.
 
-`Java` `OOP`
+`Java` `Gradle` `OOP`
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -165,4 +173,4 @@ Build. Break. Learn. Repeat.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=90&section=footer" width="100%"/>
