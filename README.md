@@ -98,7 +98,7 @@ Figma             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SreypinKim-pixel&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&custom_title=Contribution%20Activity" />
+
 
 </div>
 
