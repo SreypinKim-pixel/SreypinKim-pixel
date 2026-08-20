@@ -94,9 +94,7 @@ Figma             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SreypinKim-pixel&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
-<br/><br/>
 
 
 
@@ -116,7 +114,7 @@ Figma             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░
 
 Auth, product management, API integration, responsive UI.
 
-`React` `Redux Toolkit` `RTK Query` `Tailwind`
+`React`   `Tailwind`
 
 </td>
 <td width="33%" valign="top" align="center">
