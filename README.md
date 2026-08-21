@@ -123,7 +123,7 @@ Auth, product management, API integration, responsive UI.
 
 OOP, data structures, application development.
 
-`Java` `Gradle` `OOP`
+`Java`  `OOP`
 
 </td>
 <td width="33%" valign="top" align="center">
